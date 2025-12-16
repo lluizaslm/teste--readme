@@ -16,7 +16,7 @@
 
 ## Melhorar Documentação
 - [Pull request](https://github.com/ankitects/anki/pull/4466#issue-3728697274)
-- Feito por [Daniela Silva](https://github.com/DaniSilvaCodes).
+- Feito por Daniela Silva.
 
 ## Produção de Conteúdo Audiovisual
 - [Vídeo](https://youtu.be/Fhjkl-DGbfE)
