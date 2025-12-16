@@ -23,7 +23,7 @@
 - Feito por Lorena Teixeira
 
 ## Contribuição de Ux/Desing
-- [Figma]()
+- [Figma](https://www.figma.com/design/1rx7rxo3IC9Pg9ywTVKKlK/Anki-Ux-Desing?node-id=0-1&t=LHYyjoCAavRF5VVz-1)
 - Feito por Maria Luiza e Vitória Ávila
 
 ### Link da apresentação em sala
