@@ -15,7 +15,7 @@
 - Feito por Chebl José e Maira Fernanda
 
 ## Melhorar Documentação
-- 
+- [Pull request](https://github.com/ankitects/anki/pull/4466#issue-3728697274)
 - Feito por [Daniela Silva](https://github.com/DaniSilvaCodes).
 
 ## Produção de Conteúdo Audiovisual
